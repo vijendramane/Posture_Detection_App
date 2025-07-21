@@ -13,7 +13,9 @@ import asyncio
 
 from posture_detector import PostureDetector
 
+
 app = FastAPI(title="Posture Detection API", version="1.0.0")
+
 
 # Configure CORS
 app.add_middleware(
