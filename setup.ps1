@@ -1,7 +1,7 @@
 # Posture Detection App Setup Script
 Write-Host "Setting up Posture Detection App..." -ForegroundColor Green
 
-# Check if Python is installed
+# Check if Python is installed or not
 try {
     $pythonVersion = python --version 2>&1
     Write-Host "Found Python: $pythonVersion" -ForegroundColor Green
