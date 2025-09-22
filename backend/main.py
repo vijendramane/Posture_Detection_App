@@ -6,7 +6,7 @@ import numpy as np
 import base64  
 import json 
 import io 
-from PIL import Image
+from PIL import Image 
 import time
 from typing import Dict, List
 import asyncio
