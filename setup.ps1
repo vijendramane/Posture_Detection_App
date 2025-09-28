@@ -9,7 +9,7 @@ try {
     Write-Host "Python is not installed or not in PATH. Please install Python 3.9+ first." -ForegroundColor Red
     exit 1
 }
-
+ 
 # Check if Node.js is installed
 try {
     $nodeVersion = node --version 2>&1
