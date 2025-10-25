@@ -8,7 +8,7 @@ import { AnalysisResult, VideoAnalysisResult } from './types';
 const App: React.FC = () => {
   const [postureType, setPostureType] = useState<'sitting' | 'squat'>('sitting');
   const [realtimeResult, setRealtimeResult] = useState<AnalysisResult | undefined>();
-  const [videoResult, setVideoResult] = useState<VideoAnalysisResult | undefined>();
+  const [videoResult, setVideoResult] = useState<VideoAnalysisResult | undefined>(); 
 
   const handlePostureTypeChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setPostureType(event.target.value as 'sitting' | 'squat');
