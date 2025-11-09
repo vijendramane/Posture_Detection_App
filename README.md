@@ -12,7 +12,7 @@ A complete full-stack web application for rule-based bad posture detection using
 - **Export Results**: Download analysis reports as JSON
 - **Responsive Design**: Works on desktop and mobile devices
  
-## Tech Stack
+## Tech Stack 
 
 ### Backend
 - **FastAPI** - Modern Python web framework
