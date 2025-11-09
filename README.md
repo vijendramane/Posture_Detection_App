@@ -13,7 +13,7 @@ A complete full-stack web application for rule-based bad posture detection using
 - **Responsive Design**: Works on desktop and mobile devices
  
 ## Tech Stack 
-
+ 
 ### Backend
 - **FastAPI** - Modern Python web framework
 - **MediaPipe** - Google's pose estimation library
