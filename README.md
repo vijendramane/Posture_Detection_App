@@ -11,7 +11,7 @@ A complete full-stack web application for rule-based bad posture detection using
 - **Visual Feedback**: Real-time overlay with posture alerts
 - **Export Results**: Download analysis reports as JSON
 - **Responsive Design**: Works on desktop and mobile devices
-
+ 
 ## Tech Stack
 
 ### Backend
