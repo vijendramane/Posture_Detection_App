@@ -37,7 +37,7 @@ A complete full-stack web application for rule-based bad posture detection using
 
 ### For Squat Posture:
 - **Knee Over Toe**: Flags if knee x-coordinate is ahead of toe
-- **Back Angle**: Flags if back angle (shoulder-hip-knee) < 150°
+- **Back Angle**: Flags if back angle (shoulder-hip-knee) < 150° 
 - **Squat Depth**: Checks if knee angle indicates sufficient depth
 
 ## Installation & Setup
