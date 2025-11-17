@@ -10,7 +10,6 @@ from PIL import Image
 import time 
 from typing import Dict, List 
 import asyncio
-import pytorch
  
 
 from posture_detector import PostureDetector
