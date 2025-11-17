@@ -8,7 +8,7 @@ import json
 import io  
 from PIL import Image 
 import time 
-from typing import Dict, List
+from typing import Dict, List 
 import asyncio
  
 
