@@ -12,7 +12,9 @@ A complete full-stack web application for rule-based bad posture detection using
 - **Export Results**: Download analysis reports as JSON 
 - **Responsive Design**: Works on desktop and mobile devices 
  -**Rule-based Detection**: Custom riles for detection bad posture analytics
--**Export Reult**: real time overlay with poture as JSON 
+-**Export Reult**: real time overlay with poture as JSON
+
+  
 ## Tech Stack 
  
 ### Backend
