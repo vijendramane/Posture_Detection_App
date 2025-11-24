@@ -20,7 +20,7 @@ A complete full-stack web application for rule-based bad posture detection using
 - **MediaPipe** - Google's pose estimation library
 - **OpenCV** - Computer vision processing
 - **WebSockets** - Real-time communication
-- **Uvicorn** - ASGI server
+- **Uvicorn** - Agsi servers
 
 ### Frontend
 - **React 18** - Modern UI framework
