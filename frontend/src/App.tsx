@@ -3,7 +3,7 @@ import './App.css';
 import WebcamCapture from './WebcamCapture'; 
 import VideoUpload from './VideoUpload';
 import AnalysisResults from './AnalysisResults';    
-import { AnalysisResult, VideoAnalysisResult } from './types';
+import { AnalysisResult, VideoAnalysisResult } from './types'; 
 
 const App: React.FC = () => {
   const [postureType, setPostureType] = useState<'sitting' | 'squat'>('sitting');
