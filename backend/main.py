@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 import base64
 import json
-import io  
+import io
 from PIL import Image 
 import time
 from typing import Dict, List 
