@@ -1,7 +1,7 @@
   from fastapi import FastAPI, UploadFile, File, HTTPException, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse 
-import cv2
+import cv2 
 import numpy as np
 import base64
 import json
