@@ -4,7 +4,7 @@ import mediapipe as mp
 import numpy as np
 from typing import Dict, List, Tuple, Optional
 import  math 
-
+ 
  
 class PostureDetector:
     def __init__(self):
