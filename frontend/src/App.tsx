@@ -10,6 +10,7 @@ const App: React.FC = () => {
   const [realtimeResult, setRealtimeResult] = useState<AnalysisResult | undefined>();
   const [videoResult, setVideoResult] = useState<VideoAnalysisResult | undefined>(); 
 
+
   const handlePostureTypeChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setPostureType(event.target.value as 'sitting' | 'squat');
   };
