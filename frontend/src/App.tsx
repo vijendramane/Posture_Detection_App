@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import WebcamCapture from './WebcamCapture';
 import VideoUpload from './VideoUpload';
-import AnalysisResults from './AnalysisResults'; 
+import AnalysisResults from './AnalysisResults';
 import { AnalysisResult, VideoAnalysisResult } from './types';
 
 const App: React.FC = () => { 
