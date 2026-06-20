@@ -70,7 +70,7 @@ def decode_base64_image(image_data: str) -> np.ndarray:
         
         # Convert to numpy array
         image_array = np.array(image)
-        
+    
         # Convert RGB to BGR for OpenCV
         if len(image_array.shape) == 3 and image_array.shape[2] == 3:
             image_array = cv2.cvtColor(image_array, cv2.COLOR_RGB2BGR)
