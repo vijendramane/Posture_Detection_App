@@ -4,7 +4,7 @@ from fastapi.responses import JSONResponse
 import cv2
 import numpy as np
 import base64
-import json 
+import json
 import io
 from PIL import Image 
 import time
