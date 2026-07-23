@@ -9,7 +9,7 @@ A complete full-stack web application for rule-based bad posture detection using
 - **Posture Types**: Support for sitting and squat posture analysis  
 - **Rule-based Detection**: Custom rules for detecting bad posture patterns
 - **Visual Feedback**: Real-time overlay with posture alerts 
-- **Export Results**: Download analysis reports as JSON 
+- **Export Results**: Download analysis reports as JSON
 - **Responsive Design**: Works on desktop and mobile devices 
  -**Rule-based Detection**: Custom riles for detection bad posture analytics
 -**Export Reult**: real time overlay with poture as JSON
