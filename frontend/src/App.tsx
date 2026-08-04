@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import WebcamCapture from './WebcamCapture';
-import VideoUpload from './VideoUpload';
+import VideoUpload from './VideoUpload';s
 import AnalysisResults from './AnalysisResults';
 import { AnalysisResult, VideoAnalysisResult } from './types';
 
