@@ -5,7 +5,7 @@ A complete full-stack web application for rule-based bad posture detection using
 ## Features
  
 - **Real-time Posture Analysis**: Use webcam for live posture monitoring
-- **Video Upload Analysis**: Upload videos for batch posture analysis
+- **Video Upload Analysis**: Upload videos for batch posture analysis 
 - **Posture Types**: Support for sitting and squat posture analysis
 - **Rule-based Detection**: Custom rules for detecting bad posture patterns
 - **Visual Feedback**: Real-time overlay with posture alerts
