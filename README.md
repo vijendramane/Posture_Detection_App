@@ -1,7 +1,7 @@
 # Posture Detection App
  
 A complete full-stack web application for rule-based bad posture detection using computer vision and pose estimation.
-
+ 
 ## Features
  
 - **Real-time Posture Analysis**: Use webcam for live posture monitoring
